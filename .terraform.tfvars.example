@@ -1,0 +1,5 @@
+# your name (e.g. John Ruth will be "jruth")
+prefix = "jruth" # used in resource names
+
+# your network
+accessible_from = ["1.2.3.4/32"] # allowed ones in firewall
